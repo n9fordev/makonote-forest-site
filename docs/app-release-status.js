@@ -1,7 +1,7 @@
 const appReleaseStatus = {
   "copypouch-pocket": {
     // When released, change the state to "available".
-    state: "coming-soon",
+    state: "available",
     labels: {
       en: {
         "coming-soon": "Coming soon",
